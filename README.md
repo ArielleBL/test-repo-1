@@ -12,3 +12,4 @@ Hello! this is my reporsitory. I will delete it later.
 * Pull Request
 * Contribute to TW
 
+This is ArielleBL making edits to your Test Repo as I learn about GitHub 
